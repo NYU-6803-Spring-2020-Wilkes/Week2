@@ -30,6 +30,7 @@ gpg --encrypt \
 	--recipient "cg2738@nyu.edu" \
 	--recipient "eh2599@nyu.edu" \
 	--recipient "zz2717@nyu.edu" \
+	--recipient "am10127@nyu.edu" \
 	--output $1.gpg $1
 
 echo "done"
