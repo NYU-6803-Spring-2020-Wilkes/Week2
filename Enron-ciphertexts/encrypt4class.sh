@@ -18,6 +18,7 @@ gpg --encrypt \
 	--recipient "mwilkes@nyu.edu" \
         --recipient "ddk294@nyu.edu" \
 	--recipient "jb5910@nyu.edu" \
+	--recipient "C970D3F0A97235F3" \
 	--recipient "ash521@nyu.edu" \
 	--recipient "cc5680@nyu.edu" \
 	--recipient "jrv329@nyu.edu" \
