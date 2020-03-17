@@ -1,0 +1,11 @@
+Issue ID,First Observed,Last Observed,CVE,Vulnerability,domain,Certificate Common Name,ipAddress,ipAddresses,hostname,port,email,productName,productVersion,IP Address,Port,banner,Data,source,url,explanation,vulnerabilityDescription,vulnerabilityPublishDate,Last Observed,Last Observed
+70efa426-096d-5ce3-89fe-d6c0f50df7c9,,,,,,,,,,,,Microsoft Terminal Services,,128.238.38.63,3389,\x03\x00\x00\x13\x0e\xd0\x00\x00\x124\x00\x02\t\x08\x00\x02\x00\x00\x00,,,,,,,,2020-02-26T16:54:20.088Z
+a0340e2b-e911-5817-880e-c31d76741c33,,,,,,,,,,,,Microsoft Terminal Services,,18.221.167.13,3389,\x03\x00\x00\x13\x0e\xd0\x00\x00\x124\x00\x02\x1f\x08\x00\x02\x00\x00\x00,,,,,,,,2020-02-26T16:50:11.853Z
+54ec3aca-c1df-57d4-bb28-d619a77f3a72,,,,,,,,,,,,Microsoft Terminal Services,,128.238.118.30,3389,\x03\x00\x00\x13\x0e\xd0\x00\x00\x124\x00\x02\x0f\x08\x00\x02\x00\x00\x00,,,,,,,,2020-02-26T16:44:02.408Z
+99a5090f-7943-5cfe-ae3d-525a93a4f998,,,,,,,,,,,,Microsoft Terminal Services,,128.238.118.26,3389,\x03\x00\x00\x13\x0e\xd0\x00\x00\x124\x00\x02\t\x08\x00\x02\x00\x00\x00,,,,,,,,2020-02-26T16:31:39.673Z
+7a161d1b-4b0b-5797-b9b2-55c0bb77f365,,,,,,,,,,,,Microsoft Terminal Services,,128.238.26.20,3389,\x03\x00\x00\x13\x0e\xd0\x00\x00\x124\x00\x02\x1f\x08\x00\x02\x00\x00\x00,,,,,,,,2020-02-26T16:12:30.049Z
+57354f0c-97f6-5b17-897c-5ea5ae235284,,,,,,,,,,,,Microsoft Terminal Services,,80.250.25.114,3389,\x03\x00\x00\x13\x0e\xd0\x00\x00\x124\x00\x02\t\x08\x00\x02\x00\x00\x00,,,,,,,,2020-02-26T16:05:32.617Z
+e619ba20-c1e4-53de-af66-fa1e730337e7,,,,,,,,,,,,Microsoft Terminal Services,,128.238.38.4,3389,\x03\x00\x00\x13\x0e\xd0\x00\x00\x124\x00\x02\t\x08\x00\x02\x00\x00\x00,,,,,,,,2020-02-26T15:46:08.709Z
+755cadb4-e6eb-59db-a641-02ac61c8019f,,,,,,,,,,,,Microsoft Terminal Services,,128.238.38.62,3389,\x03\x00\x00\x13\x0e\xd0\x00\x00\x124\x00\x02\x00\x08\x00\x02\x00\x00\x00,,,,,,,,2020-02-26T15:44:03.287Z
+b82c7271-0898-5ece-a575-800dcf50612e,,,,,,,,,,,,Microsoft Terminal Services,,128.238.184.105,3389,\x03\x00\x00\x13\x0e\xd0\x00\x00\x124\x00\x02\x1f\x08\x00\x02\x00\x00\x00,,,,,,,,2020-02-26T15:41:24.635Z
+ffa0712d-8852-585a-8695-580c80c44a22,,,,,,,,,,,,Microsoft Terminal Services,,128.238.1.39,3389,\x03\x00\x00\x13\x0e\xd0\x00\x00\x124\x00\x02\x1f\x08\x00\x02\x00\x00\x00,,,,,,,,2020-02-21T22:21:17.721Z

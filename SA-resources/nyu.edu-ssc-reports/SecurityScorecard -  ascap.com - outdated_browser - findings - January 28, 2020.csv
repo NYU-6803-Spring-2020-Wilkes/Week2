@@ -1,0 +1,7 @@
+Issue ID,First Observed,Last Observed,CVE,Vulnerability,domain,Certificate Common Name,ipAddress,ipAddresses,hostname,port,Destination IP Address,Destination Port,email,Manufacturer,Product,Version,Status,Latest Version,Source IP,ports,banner,Data,source,url,explanation,vulnerabilityDescription,vulnerabilityPublishDate,Last Observed,Last Observed
+20a18aed-c206-5271-ac5d-5d101264a170,,,,,,,,,,,,,,Apple,Safari,11.0.2,end of service,13.0,65.107.240.211,,,,,,,,,,2020-01-24T20:15:56.000Z
+007de024-0990-5ca2-8434-a0e339418725,,,,,,,,,,,,,,Google,Chrome,64.0.3282.167,end of service,78.0.3904.108,65.107.240.211,"12825,10655,20818,38004,53171,54393,19375,52127,29209,15628",,,,,,,,,2020-01-24T19:51:14.000Z
+cdcb7a22-c7cd-5510-8d85-acf4c576a820,,,,,,,,,,,,,,Apple,Safari,10.1.2,end of service,13.0,65.107.240.211,,,,,,,,,,2020-01-23T20:49:57.000Z
+af59ec14-6ab2-51b8-ae59-43916ca687fe,,,,,,,,,,,,,,Google,Chrome,35.0.1916.153,end of service,78.0.3904.108,216.0.36.34,,,,,,,,,,2020-01-14T20:47:57.000Z
+c8d4ec70-fc3b-5cfc-909a-a6c6152e99bb,,,,,,,,,,,,,,Google,Chrome,39.0.2171.95,end of service,78.0.3904.108,65.107.240.211,,,,,,,,,,2020-01-14T19:13:25.000Z
+41f5617f-48a7-5727-93c8-8d73fd1b4c8a,,,,,,,,,,,,,,Apple,Safari,11.0.3,end of service,13.0,65.107.240.211,,,,,,,,,,2020-01-06T20:17:45.000Z

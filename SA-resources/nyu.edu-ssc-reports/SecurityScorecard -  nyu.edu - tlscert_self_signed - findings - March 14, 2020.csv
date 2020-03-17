@@ -1,0 +1,5 @@
+Issue ID,First Observed,Last Observed,CVE,Vulnerability,Certificate Common Name,ipAddress,ipAddresses,hostname,port,email,productName,productVersion,Certificate Common Name,Certificate Authority,Collection Target,Port,banner,Data,source,url,explanation,vulnerabilityDescription,vulnerabilityPublishDate,Last Observed,Last Observed
+cb665d04-ddc2-520a-8ffe-e6121d535ea4,,,,,,,,,,,,,*.leoyan.com,Leoyan,216.165.22.6,443,,,,,,,,,2020-03-07T01:21:51.756Z
+b19ccdab-e20a-5dfe-b6fc-a16d7570fde7,,,,,,,,,,,,,ftvjss_serverosx.filmtv.tsoa.nyu.edu,,128.122.102.203,443,,,,,,,,,2020-03-06T23:44:00.812Z
+9ee69d43-f168-59df-8745-db177656a001,,,,,,,,,,,,,cue2.engineering.nyu.edu,,216.165.117.5,443,,,,,,,,,2020-03-06T22:47:01.461Z
+f0964fc7-f183-5646-9e8b-c367ccfdf873,,,,,,,,,,,,,cue1.engineering.nyu.edu,,216.165.116.103,443,,,,,,,,,2020-03-06T10:18:49.673Z

@@ -1,0 +1,12 @@
+Issue ID,First Observed,Last Observed,CVE,Vulnerability,domain,Certificate Common Name,ipAddress,ipAddresses,hostname,port,email,productName,productVersion,IP Address,Port,Protocol,banner,Data,source,url,explanation,vulnerabilityDescription,vulnerabilityPublishDate,Last Observed,Last Observed
+68b8ca43-bcac-599b-b6f2-0a2bfc8e1c95,,,,,,,,,,,,,,128.122.130.1,22,protocol 1.99,,,,,,,,,2020-03-04T18:21:45.000Z
+76bc7f48-c6d8-5860-906a-367dc7823f8a,,,,,,,,,,,,,,128.238.14.4,22,protocol 1.99,,,,,,,,,2020-03-04T17:55:41.000Z
+4083872a-e082-534b-86e1-1f2f973986ad,,,,,,,,,,,,,,128.122.195.7,22,protocol 1.99,,,,,,,,,2020-03-04T16:05:33.000Z
+898f2b5a-081f-57f7-9601-dc4107d559c6,,,,,,,,,,,,,,128.122.128.10,22,protocol 1.99,,,,,,,,,2020-03-04T12:43:05.000Z
+31394ade-f0a3-51f1-85dd-b2d5aa704ac5,,,,,,,,,,,,,,128.122.195.17,22,protocol 1.99,,,,,,,,,2020-03-04T11:54:13.000Z
+4fd8747f-84c5-5253-88f6-b7deff2e8c1d,,,,,,,,,,,,,,128.238.75.1,22,protocol 1.99,,,,,,,,,2020-03-04T08:03:45.000Z
+804498d1-c6f0-52da-b0db-35df6a11b895,,,,,,,,,,,,,,216.165.101.2,22,protocol 1.99,,,,,,,,,2020-03-04T07:42:51.000Z
+04185387-5a8d-5249-bc49-1314c5e2f9e3,,,,,,,,,,,,,,128.122.195.16,22,protocol 1.99,,,,,,,,,2020-03-04T06:43:23.000Z
+95fdd973-fc74-5a81-be75-9d604b31b413,,,,,,,,,,,,,,128.238.28.41,22,protocol 1.99,,,,,,,,,2020-03-04T04:09:31.000Z
+d5d37306-6f83-5b04-889e-8bd3bb6bb5b3,,,,,,,,,,,,,,128.122.113.10,22,protocol 1.99,,,,,,,,,2020-02-05T10:19:53.000Z
+ba353d55-9b52-5f36-af2b-fcc494f5e0d4,,,,,,,,,,,,,,128.122.130.89,22,protocol 1.99,,,,,,,,,2020-02-04T20:23:54.000Z

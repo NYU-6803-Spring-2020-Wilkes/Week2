@@ -1,0 +1,6 @@
+Issue ID,First Observed,Last Observed,CVE,Vulnerability,domain,Certificate Common Name,ipAddress,ipAddresses,hostname,port,email,productName,productVersion,IP Address,Port,banner,Data,source,url,explanation,vulnerabilityDescription,vulnerabilityPublishDate,Last Observed,Last Observed
+f4c9faac-c627-5616-85ed-af400620b3e6,,,,,,,,,,,,,,128.122.133.17,873,,,,,,,,,2020-02-13T19:27:34.000Z
+a33f26ee-107a-5d1f-b6b5-f7b4bc1dce5e,,,,,,,,,,,,,,128.122.65.62,873,,,,,,,,,2020-02-13T19:18:26.000Z
+9b35f1f6-53f6-5fad-b11b-024291e9a98d,,,,,,,,,,,,,,128.122.133.16,873,,,,,,,,,2020-02-13T18:12:49.000Z
+cded6950-5e34-59bf-af82-1fbefc77a784,,,,,,,,,,,,,,128.122.161.15,873,,,,,,,,,2020-02-13T18:07:23.000Z
+9a9294ab-4c16-505d-bf95-c7e312c44996,,,,,,,,,,,,,,128.122.109.46,873,,,,,,,,,2020-02-13T18:00:20.000Z

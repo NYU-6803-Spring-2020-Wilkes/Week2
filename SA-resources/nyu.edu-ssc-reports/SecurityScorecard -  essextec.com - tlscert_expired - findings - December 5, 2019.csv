@@ -1,0 +1,6 @@
+Issue ID,First Observed,Last Observed,CVE,Vulnerability,Certificate Common Name,ipAddress,ipAddresses,hostname,port,email,productName,productVersion,Certificate Common Name,Certificate Authority,Start Date,Expiration Date,Collection Target,Port,banner,Data,source,url,explanation,vulnerabilityDescription,vulnerabilityPublishDate,Last Observed,Last Observed
+09300fdc-b1c7-5eae-870c-30ce08c134e1,,,,,,,,,,,,,*.essextec.com,DigiCert Inc,2018-04-26T04:00:00.000Z,2018-12-16T12:00:00.000Z,52.5.116.25,443,,,,,,,,,2019-11-11T08:01:29.081Z
+5a94752c-c467-5812-b74c-018ff14fb920,,,,,,,,,,,,,*.essextec.com,DigiCert Inc,2018-04-26T04:00:00.000Z,2018-12-16T12:00:00.000Z,96.57.133.122,443,,,,,,,,,2019-11-10T18:13:24.066Z
+73a247e3-9b9b-5f7e-a4d6-68eb3ffc0502,,,,,,,,,,,,,essextec.com,COMODO CA Limited,2015-04-20T04:00:00.000Z,2016-05-01T23:59:59.000Z,192.185.70.34,443,,,,,,,,,2019-11-10T12:55:09.067Z
+2365225c-5ddf-5867-bfa3-f3bf72ab54a0,,,,,,,,,,,,,*.essextec.com,DigiCert Inc,2018-04-26T04:00:00.000Z,2018-12-16T12:00:00.000Z,54.156.8.113,443,,,,,,,,,2019-11-08T01:00:52.616Z
+93989142-0896-5eaf-961b-67ad0807f537,,,,,,,,,,,,,*.essextec.com,DigiCert Inc,2018-04-26T04:00:00.000Z,2018-12-16T12:00:00.000Z,67.101.73.147,443,,,,,,,,,2019-11-07T16:45:29.507Z

@@ -1,0 +1,17 @@
+Issue ID,First Observed,Last Observed,CVE,Vulnerability,domain,Certificate Common Name,ipAddress,ipAddresses,hostname,port,email,productName,productVersion,IP Address,Port,banner,Data,source,url,explanation,vulnerabilityDescription,vulnerabilityPublishDate,Last Observed,Last Observed
+d8823014-1450-514b-a634-89793065d704,,,,,,,,,,,,Cisco IOS telnetd,,128.238.75.1,23,\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f\r\n6506E-RH325-01 line 3 \r\n\r\n\r\nUser Access Verification\r\n\r\nUsername:,,,,,,,,2020-03-05T08:59:54.109Z
+41502e16-ad55-5042-86f7-715a48bbf06d,,,,,,,,,,,,Cisco router telnetd,,128.238.14.4,23,,,,,,,,,2020-03-05T08:35:01.027Z
+b6d234e2-79dc-5b03-84ac-90e8cea9baf7,,,,,,,,,,,,Cisco router telnetd,,128.238.60.10,23,"\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f\r\n\r\nPassword required, but none set\r\n",,,,,,,,2020-03-05T07:55:34.361Z
+94c6a842-de77-5fef-abe0-096590dd0446,,,,,,,,,,,,Cisco IOS telnetd,,128.238.28.41,23,\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f\r\n6506E-RH325-01 line 4 \r\n\r\n\r\nUser Access Verification\r\n\r\nUsername:,,,,,,,,2020-03-05T07:53:54.198Z
+c2ccaa1d-878a-5502-aefa-4440bbd65ce0,,,,,,,,,,,,Ricoh maintenance telnetd,,128.122.8.203,23,,,,,,,,,2020-03-05T00:39:29.000Z
+0d23999d-cad5-572c-903c-bd1d0c009dc1,,,,,,,,,,,,Polycom ViewStation Video Conferencing telnetd,,128.122.180.71,23,,,,,,,,,2020-03-05T00:37:32.000Z
+76900e75-bd5f-5b23-82ac-ea8f5d6abfd6,,,,,,,,,,,,Linux telnetd,,128.122.228.195,23,,,,,,,,,2020-03-05T00:15:13.000Z
+908ba1fc-381d-52ab-8796-e7826092bc7c,,,,,,,,,,,,,,128.122.2.28,23,,,,,,,,,2020-03-04T23:18:18.000Z
+913b5ab3-b46c-5896-b119-3827a54ff359,,,,,,,,,,,,HP JetDirect telnetd,,128.122.185.212,23,,,,,,,,,2020-03-04T22:49:45.000Z
+cd82b03b-c9a8-519f-a5ea-d86110110e8e,,,,,,,,,,,,Polycom ViewStation Video Conferencing telnetd,,128.122.19.18,23,,,,,,,,,2020-03-04T22:45:45.000Z
+85c8e7c3-d308-5080-9cfc-511d85b5eca3,,,,,,,,,,,,Cisco router telnetd,,216.165.101.2,23,,,,,,,,,2020-03-04T20:30:34.000Z
+9bd4d958-23b4-5a4b-ad56-aef712ac97ec,,,,,,,,,,,,BusyBox telnetd,,216.165.117.93,23,,,,,,,,,2020-03-04T19:20:30.000Z
+abf974a2-d423-505e-8aec-5de4bbf6ac5c,,,,,,,,,,,,APC PDU/UPS devices or Windows CE telnetd,,128.122.71.176,23,,,,,,,,,2020-03-04T18:42:42.000Z
+3e4d1cc8-f07b-56b4-910c-fb6b56d96e58,,,,,,,,,,,,APC PDU/UPS devices or Windows CE telnetd,,128.122.71.177,23,,,,,,,,,2020-03-04T18:40:13.000Z
+b7c3eb5b-d1a5-5f77-9730-292c1cbae68d,,,,,,,,,,,,Brother/HP printer telnetd,,128.122.63.8,23,,,,,,,,,2020-02-05T19:19:45.000Z
+1fee2ef4-1504-5fb2-a395-58adec76631a,,,,,,,,,,,,Linux telnetd,,216.165.112.122,23,,,,,,,,,2020-02-05T13:34:40.000Z

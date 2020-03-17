@@ -1,0 +1,3 @@
+Issue ID,First Observed,Last Observed,CVE,Vulnerability,Certificate Common Name,ipAddress,ipAddresses,hostname,port,email,productName,productVersion,Certificate Common Name,Certificate Authority,Collection Target,Port,banner,Data,source,url,explanation,vulnerabilityDescription,vulnerabilityPublishDate,Last Observed,Last Observed
+cc5fc63f-cc2b-5bcd-ab4b-5f81d199affa,,,,,,,,,,,,,google.nyu.edu,COMODO CA Limited,216.165.84.74,443,,,,,,,,,2020-03-06T05:33:03.338Z
+68ddbfeb-719e-58ba-a2a5-af0c505a1f7e,,,,,,,,,,,,,google.nyu.edu,COMODO CA Limited,128.122.109.58,443,,,,,,,,,2020-03-06T03:09:33.162Z
